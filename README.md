@@ -37,7 +37,3 @@ Currently focused on building **AI-driven OSINT solutions** and scalable web arc
 
 ### 💡 Note on Contributions
 *Part of my professional and academic work (especially from **42 Wolfsburg** and **TU Braunschweig**) is hosted on internal enterprise servers or separate academic Git accounts. If you'd like to see specific code samples or discuss my technical approach, feel free to reach out!*
-
-### 📫 Let's Connect
-- 📧 [taylankarakayaa@gmail.com](mailto:taylankarakayaa@gmail.com)
-- 📍 Braunschweig, Germany
